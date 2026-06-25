@@ -1,0 +1,9 @@
+{
+  "name": "HOME.GENERATE.",
+  "description": "Localized and personalized comic book generator\nMAKE THIS APP NAME: HOME.GENERATE.\nMAKE IT TRILLION-DOLLAR WEBAPP, THEN GIMME IT AS A ZIP FOR GITHUB UPLOAD ",
+  "requestFramePermissions": [],
+  "prompt": "",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
